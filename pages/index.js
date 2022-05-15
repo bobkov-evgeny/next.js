@@ -1,6 +1,8 @@
+import Heading from "../components/Heading";
+
 const Home = () => {
   return (
-      <h1>hello from next.js</h1>
+      <Heading text="Hello world!"/>
   )
 }
 
